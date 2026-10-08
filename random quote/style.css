@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-image:url(kaleng-cat-dengan-desain-seni-garis-3d-tangan-manusia_460848-11261.avif)}
+div {
+    background-color: rgb(242, 242, 243);
+    padding: 0;
+    border-radius: 15px;
+    width: 400px;
+    text-align: center;
+}
